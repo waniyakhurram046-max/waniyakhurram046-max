@@ -1,4 +1,4 @@
-## Hi there, I'm Waniya! 👋 /n
+## Hi there, I'm Waniya! 👋 
 I'm a first-year Computer Science student at the University of Cincinnati, ready to learn and build. 
 I’m currently building my skills in C++, Python, and Web Development.
 I’m currently working on building my first protfolio project. 
